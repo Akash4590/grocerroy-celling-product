@@ -1,0 +1,17 @@
+{
+  "name": "freshcart-server",
+  "version": "1.0.0",
+  "description": "FreshCart Grocery App - Backend API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.2",
+    "mongoose": "^8.13.2",
+    "uuid": "^11.1.0"
+  }
+}
