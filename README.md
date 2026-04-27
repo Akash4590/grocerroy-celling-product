@@ -4,10 +4,9 @@ A modern full-stack grocery e-commerce web application built using **MERN Stack 
 This project demonstrates real-world e-commerce functionality including product listing, cart system, and backend API integration.
 
 ---
-
 # 🚀 Live Project Features
 
-## 🛍️ Product System
+# 🛍️ Product System
 - Display all products from database
 - Product categories filtering
 - Product details view
